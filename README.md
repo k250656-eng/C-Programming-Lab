@@ -8,4 +8,5 @@ I was instructed to;
 - [x] Create a new repository with the name C-Programming-Lab.
 - [x] Add a README.md file and write a short description about the repository.
 
-Listed above are the ***objectives.***
+Listed above are the ***objectives.***\
+*I experimented with Github during the online class, hence my account already has some repositories/ files present.*
