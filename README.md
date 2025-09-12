@@ -3,6 +3,11 @@
 This repository has been made for my PF Lab 3, task 1. This is the description of the repository; The purpose of this task is to introduce the student to Git hub and allow them to learn how to create a repository.
 
 # Lab 3
+### Task 4
+my favorite programming languages are:
+- java
+- C
+- python
 ### Task 6
 An assignment *was* due on ~~7 PM~~ **8 PM, Thursday**
 I was instructed to;
